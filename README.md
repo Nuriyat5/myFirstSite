@@ -1,2 +1,1 @@
-# myFirstSite
-hi
+permalink:/index1.html
