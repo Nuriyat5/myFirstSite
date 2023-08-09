@@ -1,2 +1,0 @@
-# myFirstSite
-ok
